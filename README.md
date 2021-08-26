@@ -32,7 +32,7 @@ Készíthető olyan model, ami a cím vagy esetleg a teljes tartalom alapján el
 
 ## Alkalmazott technológiák: 
 
-* ![R logo](images/R.png){width=5%} [R](https://www.r-project.org/) 
+* <img src="R.png" alt="R logo" width="50" height="50"> [R](https://www.r-project.org/) 
 * ![R Studio logo](images/rstudio.png){width=5%} [R Studio](https://www.rstudio.com/) 
 * a következő csomagokkal kiegészítve: 
   + ![tidyverse logo](images/tidyverse.png){width=5%} [tidyverse](https://tidyverse.org/) mert manapság elképzelni is nehéz a hatékony és olvasható R kódot nélküle 
