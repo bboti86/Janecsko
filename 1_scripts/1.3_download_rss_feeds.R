@@ -31,3 +31,11 @@ for (u in 1:nrow(urls)) {
   Sys.sleep(0.3)
 }
 
+feeds <- feeds%>%
+  left_join(rss_author_slugs, by = "name")
+
+
+
+# saving feeds
+
+write_rds(feeds, file = here::here("data","feeds.rds"))
