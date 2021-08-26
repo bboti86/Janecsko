@@ -32,8 +32,8 @@ Készíthető olyan model, ami a cím vagy esetleg a teljes tartalom alapján el
 
 ## Alkalmazott technológiák: 
 
-* <img src="R.png" alt="R logo" width="50" height="50"> [R](https://www.r-project.org/) 
-* ![R Studio logo](images/rstudio.png){width=5%} [R Studio](https://www.rstudio.com/) 
+* <img src="images/R.png" alt="R logo" width="50" height="50"> [R](https://www.r-project.org/) 
+* <img src="images/rstudio.png" alt="R Studio logo" width="50" height="50"> [R Studio](https://www.rstudio.com/) 
 * a következő csomagokkal kiegészítve: 
   + ![tidyverse logo](images/tidyverse.png){width=5%} [tidyverse](https://tidyverse.org/) mert manapság elképzelni is nehéz a hatékony és olvasható R kódot nélküle 
   + ![tidytext logo](images/tidytext.png){width=5%} [tidytext](https://www.tidytextmining.com/) kifejezetten a tidyverse-be illeszkedő szöveg elemző eszköztár 
