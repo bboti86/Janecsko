@@ -38,7 +38,7 @@ Készíthető olyan model, ami a cím vagy esetleg a teljes tartalom alapján el
   + <img src="images/tidyverse.png" alt="tidyverse logo" width="50" height="50"> [tidyverse](https://tidyverse.org/) mert manapság elképzelni is nehéz a hatékony és olvasható R kódot nélküle 
   + <img src ="images/tidytext.png" alt ="tidytext logo" width="50" height="50"> [tidytext](https://www.tidytextmining.com/) kifejezetten a tidyverse-be illeszkedő szöveg elemző eszköztár 
   + <img src ="images/tidymodels.png" alt ="tidymodels logo" width="50" height="50"> [tidymodels](https://www.tidymodels.org/) model alkotás egyszerűen szintén a tidyverse logikája szerint
-  + <img src ="images/tidyrss.png" alt ="tidyrss logo" width="50" height="50">![tidyrss logo](images/tidyrss.png){width=5%} [tidyRSS](https://github.com/RobertMyles/tidyRSS) mivel a Telexen van RSS csatorna, amit ráadásul lehet újságíróra szűrni, így ezen a módon fogunk cikkekhez jútni 
+  + <img src ="images/tidyrss.png" alt ="tidyrss logo" width="50" height="50"> [tidyRSS](https://github.com/RobertMyles/tidyRSS) mivel a Telexen van RSS csatorna, amit ráadásul lehet újságíróra szűrni, így ezen a módon fogunk cikkekhez jútni 
   + lubridate
   + rvest 
   + glue 
